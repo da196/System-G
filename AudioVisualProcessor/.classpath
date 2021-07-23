@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_231/lib/ext/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_231/lib/ext/logback.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_231/lib/ext/xuggle-utils-1.19.358.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_231/lib/ext/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_231/lib/ext/xuggle-xuggler-5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

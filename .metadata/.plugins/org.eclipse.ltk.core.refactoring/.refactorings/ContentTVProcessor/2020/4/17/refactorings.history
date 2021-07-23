@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;ConvertMP4toMp3/src/tcra.go.convertor&apos;&#x0D;&#x0A;- Original project: &apos;ContentTVProcessor&apos;&#x0D;&#x0A;- Destination element: &apos;ConvertMP4toMp3/src/tcra.go.convertor&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     tcra.go.tv.processor.PostgresDBConnection.java&#x0D;&#x0A;     tcra.go.tv.processor.ErrorLogsAppender.java&#x0D;&#x0A;     tcra.go.tv.processor.Utility.java" description="Copy compilation units" destination="=ConvertMP4toMp3/src&lt;tcra.go.convertor" element1="/src&lt;tcra.go.tv.processor{PostgresDBConnection.java" element2="/src&lt;tcra.go.tv.processor{ErrorLogsAppender.java" element3="/src&lt;tcra.go.tv.processor{Utility.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1587453521758" units="3" version="1.0"/>
+</session>
